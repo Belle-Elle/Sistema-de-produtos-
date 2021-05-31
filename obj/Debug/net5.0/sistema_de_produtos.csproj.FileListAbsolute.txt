@@ -1,0 +1,16 @@
+C:\Users\Desktop\Documents\sistema_de_produtos\bin\Debug\net5.0\sistema_de_produtos.exe
+C:\Users\Desktop\Documents\sistema_de_produtos\bin\Debug\net5.0\sistema_de_produtos.deps.json
+C:\Users\Desktop\Documents\sistema_de_produtos\bin\Debug\net5.0\sistema_de_produtos.runtimeconfig.json
+C:\Users\Desktop\Documents\sistema_de_produtos\bin\Debug\net5.0\sistema_de_produtos.runtimeconfig.dev.json
+C:\Users\Desktop\Documents\sistema_de_produtos\bin\Debug\net5.0\sistema_de_produtos.dll
+C:\Users\Desktop\Documents\sistema_de_produtos\bin\Debug\net5.0\ref\sistema_de_produtos.dll
+C:\Users\Desktop\Documents\sistema_de_produtos\bin\Debug\net5.0\sistema_de_produtos.pdb
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\sistema_de_produtos.csprojAssemblyReference.cache
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\sistema_de_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\sistema_de_produtos.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\sistema_de_produtos.AssemblyInfo.cs
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\sistema_de_produtos.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\sistema_de_produtos.dll
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\ref\sistema_de_produtos.dll
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\sistema_de_produtos.pdb
+C:\Users\Desktop\Documents\sistema_de_produtos\obj\Debug\net5.0\sistema_de_produtos.genruntimeconfig.cache
